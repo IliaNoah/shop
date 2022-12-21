@@ -1,18 +1,20 @@
-@font-face{
-    font-family: iran;
-    src: url(../font/iran.ttf);
+@font-face {
+  font-family: iran;
+  src: url(../font/iran.ttf);
 }
-*{
-    direction: rtl;
-    font-family: iran;
-    box-sizing: border-box;
 
+* {
+  direction: rtl;
+  font-family: iran;
+  box-sizing: border-box;
 }
-body{
-    font-size: 16px;
-    margin: 0;
+
+body {
+  font-size: 16px;
+  margin: 0;
 }
-a{
-    text-decoration: none;
-    color: inherit;
+
+a {
+  text-decoration: none;
+  color: inherit;
 }
